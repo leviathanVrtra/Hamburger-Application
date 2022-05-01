@@ -13,7 +13,7 @@ Create a Hamburger class to deal with all the above.
 
 The constructor should only include the roll type, meat and price, can also include name of burger or you can use a setter.
 
-Also create two extra varieties of Hamburgers (subclasses) to cater for 
+Also create two extra varieties of Hamburgers (subclasses) to cater for
 a) Healthy burger (on a brown rye bread roll), plus two addition items that can be added. The healthy burger can have 6 items (Additions) in total.
 hint:  you probably want to process the two additional items in this new class (subclass of Hamburger), not the base class (Hamburger), since the two additions are only appropriate for this new class (in other words new burger type).
 
